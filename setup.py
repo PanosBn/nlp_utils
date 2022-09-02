@@ -10,7 +10,5 @@ setup(
         'spacy',
         'tqdm',
         'pandas',
-        're',
-
     ]
 )
