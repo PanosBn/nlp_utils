@@ -6,7 +6,7 @@ setup(
     scripts=find_packages(),
 
     install_requires=[
-        'deepmultilingualpunctuation'
+        'deepmultilingualpunctuation',
         'spacy',
         'tqdm',
         'pandas',
